@@ -5,5 +5,5 @@
 
 ## 文章列表
 
-- [**原力注入公众号全篇合集一文读尽（截止 2025 年 4 月 9 日）**](https://mp.weixin.qq.com/s/SAnUefVrCAHPgupZktVCZw)
-- [**文章列表**](https://github.com/ForceInjection/articles/blob/main/toc.md)
+- [**原力注入公众号全篇合集一文读尽（截止 2025 年 12 月 31 日）**](https://mp.weixin.qq.com/s/v9t3wjwKoqokVBvFd5tFMw)
+- [**完整文章列表**](https://github.com/ForceInjection/articles/blob/main/toc.md)
