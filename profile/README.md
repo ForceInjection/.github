@@ -5,6 +5,9 @@
 
 在线网站：[**AI Fundermentals**](https://forceinjection.github.io/)
 
+<img width="713" height="272" alt="截屏2026-05-09 10 57 35" src="https://github.com/user-attachments/assets/e93feea4-74a3-43f4-b8c3-dff117cf892b" />
+
+
 ## 文章列表
 
 - [**原力注入公众号全篇合集一文读尽（截止 2025 年 12 月 31 日）**](https://mp.weixin.qq.com/s/v9t3wjwKoqokVBvFd5tFMw)
