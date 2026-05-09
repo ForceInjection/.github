@@ -5,8 +5,7 @@
 
 在线网站：[**AI Fundermentals**](https://forceinjection.github.io/)
 
-<img width="713" height="272" alt="截屏2026-05-09 10 57 35" src="https://github.com/user-attachments/assets/e93feea4-74a3-43f4-b8c3-dff117cf892b" />
-
+<img width="3024" height="4560" alt="screencapture-forceinjection-github-io-2026-05-09-14_03_19" src="https://github.com/user-attachments/assets/56480d29-1fd7-4534-914f-799483c049da" />
 
 ## 文章列表
 
