@@ -7,6 +7,10 @@
 
 ## 好书推荐
 
+<details>
+<summary><b>好书推荐专辑文章</b>：<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3377874180926619650" >合集链接</a></summary>
+<br/>
+
 | # | 发布时间 | 对应公众号文章 |
 |---|----------|-------------------------|
 | 1 | 2026-08-14 | [一线 AI 工程师都在看的大模型推理工程实战](https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247492750&idx=1&sn=0dc47c03f65609d03fdd8b15cd10dad9&chksm=e99626c3dee1afd5138aa3d3d9676e2a32edd3dbc7d6f39d66b4d28ad6d6308b4d9e4773f641) |
@@ -59,4 +63,4 @@
 | 48 | 2024-03-12 | [好书推荐 -《Hello 算法》](https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247486078&idx=1&sn=fc2bdc5333f3f3f53a4414727296670c&chksm=e995c833dee241252b0c14c46d115449803d4779300d41b847bd6d4bf4890a7d9e0b9e2ab428) |
 | 49 | 2023-11-28 | [《BPF 之巅：洞悉Linux系统和应用性能》读书笔记开篇](https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247485127&idx=1&sn=1d9a0604ecd0d01c43b9d2235335dea7&chksm=e995c48adee24d9c8401e310b408bde8e09b8f1e373b51ac75d7d17c269ea6e41721b06985a) |
 
-
+</details>
