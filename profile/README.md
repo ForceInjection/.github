@@ -5,6 +5,10 @@
 
 在线网站：[**AI Fundamentals**](https://forceinjection.github.io/)
 
+## AI Infra 课程
+
+**对于想讨论 AI Infra 学习路线的可以私聊博主：** grissom_sh（微信）
+
 ## 好书推荐
 
 <details>
